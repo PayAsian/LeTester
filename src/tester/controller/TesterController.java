@@ -7,7 +7,7 @@ public class TesterController
 	{
 	int x = 10;
 	
-	while ( x < 20) 
+	while ( x < 30) 
 	{
 	System.out.println("value of x : " + x );
 	x++;
